@@ -22,6 +22,7 @@ Bước 5 : gõ : git push -u origin master
 -
 ------------------
 Cách push code lên github bằng cmd
+
 Bước 1 : coppy đường dẫn thư mục code
 -
 ví dụ : cd C:\Windows\code\thu-muc-moi
