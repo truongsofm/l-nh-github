@@ -3,9 +3,6 @@ các lệnh github :)))
 
 git scm hoặc git bash , gọi như nào cũng đc
 
-Sao chép một kho chứa đã tồn tại
-$ git clone https://github.com/user/repository.git (  url repo github )
-
 ------------------
 Cách push code lên github bằng git scm
 Bước 1 : chuột phải vào thư mục , chọn git bash
